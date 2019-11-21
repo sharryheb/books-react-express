@@ -13,6 +13,6 @@ Deployed at: https://book-search-sdh.herokuapp.com/
 5. Click Remove to remove a book from your list.
 
 
-## MERN Stack
-MongoDB, Express.js, React.js, React Router, and Node.js
+## Tech Used
+MERN Stack: MongoDB, Express.js, React.js, and Node.js
 Google Books API
